@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37F5C0</color>
+    <color name="colorPrimaryDark">#37F5C0</color>
+    <color name="colorAccent">#1E6E08</color>
+    <color name="white">#ffff</color>
+    <color name="toolbarColor">#1E6E08</color>
+    <color name="black">#0C0C0C</color>
+    <color name="lightgray">#2A9B0B</color>
+    <color name="graylight">#fafafa</color>
+    <color name="biru_daun">#2A9B0B</color>
+</resources>
